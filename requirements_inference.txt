@@ -1,0 +1,7 @@
+torch==2.2.2
+gruut
+anyascii
+librosa
+pyyaml
+coqpit
+matplotlib

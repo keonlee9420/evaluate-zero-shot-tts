@@ -1,0 +1,6 @@
+nemo_text_processing
+sox
+openai-whisper
+s3prl
+omegaconf==2.0.6
+fariseq==0.12.2
