@@ -1,6 +1,6 @@
 # 📜 **Abstract**
 
-The author's officially unofficial PyTorch implementation of the evaluation protocol for DiTTo-TTS.
+The author's officially unofficial PyTorch implementation of the evaluation protocol for [DiTTo-TTS: Efficient and Scalable Zero-Shot Text-to-Speech with Diffusion Transformer](https://arxiv.org/abs/2406.11427) [[demo](https://ditto-tts.github.io/)].
 
 ### 🚀 **Our Goal**
 The goal of this project is to establish an open-source evaluation protocol by reproducing the evaluation setup and results from large-scale zero-shot TTS literature, contributing to future research by enabling the proposal of new models through reliable and fair evaluation.
