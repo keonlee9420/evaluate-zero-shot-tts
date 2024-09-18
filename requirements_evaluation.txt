@@ -3,4 +3,4 @@ sox
 openai-whisper
 s3prl
 omegaconf==2.0.6
-fariseq==0.12.2
+fairseq==0.12.2
