@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "evaluate-zero-shot-tts"
+version = "0.0.0"
+authors = [{ name = "Keon Lee"}]
+description = "Evaluation Protocol for Large-Scale Zero-Shot TTS Literature"
+readme = "README.md"
