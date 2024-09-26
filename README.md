@@ -41,6 +41,16 @@ In addition to the provided models, it is also possible and very easy to add a n
 
 **This implementation has been tested on `torch==2.2.2+cud118` with `Python 3.8.19`, assuming the availability of a single GPU.**
 
+### **Package Installation**
+
+Clone this repository and navigate to it in your terminal. Then run:
+
+```sh
+python -m pip install --editable .
+```
+
+This should install `evaluate_zero_shot_tts` python package that the scripts depend on.
+
 ### **YourTTS**
 If you only want to evaluate `yourtts`, you can install the dependencies listed in `requirements_inference.txt`. We provide all the necessary checkpoints related to the YourTTS model, including the pre-trained model and inference tools, via [Git LFS](https://git-lfs.com/).
 
