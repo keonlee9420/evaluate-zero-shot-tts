@@ -12,7 +12,5 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-from src.utils.preprocess.NeMoTN.nemo_text_processing.text_normalization.normalize import Normalizer
-from src.utils.preprocess.NeMoTN.nemo_text_processing.text_normalization.normalize_with_audio import (
-    NormalizerWithAudio,
-)
+from .normalize import Normalizer
+from .normalize_with_audio import NormalizerWithAudio

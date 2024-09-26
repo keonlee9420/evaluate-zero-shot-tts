@@ -124,10 +124,10 @@ class InferModel:
     def __init__(self, model_name):
         self.model_name = model_name
         if model_name == "yourtts":
-            from src.models.yourtts_inference import YourTTSModel
+            from evaluate_zero_shot_tts.models.yourtts_inference import YourTTSModel
             self.model = YourTTSModel()
         elif model_name == "valle_lifeiteng":
-            from src.models.valle_lifeiteng_inference import ValleLifeitengModel
+            from evaluate_zero_shot_tts.models.valle_lifeiteng_inference import ValleLifeitengModel
             self.model = ValleLifeitengModel()
         else:
             raise NotImplementedError()
