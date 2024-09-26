@@ -5,4 +5,12 @@ results/
 src/evaluate_zero_shot_tts/models/valle_lifeiteng/ckpt/
 src/evaluate_zero_shot_tts/utils/speaker_verification/ckpt/
 
+__pycache__
+.ipynb_checkpoints
+.mypy_cache
+.*.swp
 *.egg-info
+
+build
+*.c
+*.so
