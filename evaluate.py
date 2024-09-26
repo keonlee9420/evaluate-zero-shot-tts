@@ -84,7 +84,7 @@ evaluator_dict = {
         "device": "cuda:0",
         "org_sample_rate": None,  # will be automatically detected
         "tar_sample_rate": 16000,  # wavlm is trained with 16k
-        "model_type": "src/utils/speaker_verification/ckpt/wavlm_large_finetune.pth",
+        "model_type": "src/evaluate_zero_shot_tts/utils/speaker_verification/ckpt/wavlm_large_finetune.pth",
         "lang": None,
         "name": "sim",
         "amp": False,
