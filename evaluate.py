@@ -8,8 +8,8 @@ import torch
 import torchaudio
 import tqdm
 
-from src.utils.metric_stats import get_metric
-from src.utils.model_factory import get_inference
+from evaluate_zero_shot_tts.utils.metric_stats import get_metric
+from evaluate_zero_shot_tts.utils.model_factory import get_inference
 
 
 DATA_LANG_DICT = {
