@@ -1,6 +1,6 @@
 # 📜 **Abstract**
 
-The author's officially unofficial PyTorch implementation of the evaluation protocol for [DiTTo-TTS: Efficient and Scalable Zero-Shot Text-to-Speech with Diffusion Transformer](https://arxiv.org/abs/2406.11427) [[demo](https://ditto-tts.github.io/)].
+The author's officially unofficial PyTorch implementation of the evaluation protocol for [DiTTo-TTS: Diffusion Transformers for Scalable Text-to-Speech without Domain-Specific Factors](https://openreview.net/forum?id=hQvX9MBowC) (ICLR'25) [[demo](https://ditto-tts.github.io/)].
 
 ### 🚀 **Our Goal**
 The goal of this project is to establish an open-source evaluation protocol by reproducing the evaluation setup and results from large-scale zero-shot TTS literature, contributing to future research by enabling the proposal of new models through reliable and fair evaluation.
@@ -157,7 +157,7 @@ Please cite this repository by the "[Cite this repository](https://github.blog/2
 4. Ju, Z., Wang, Y., Shen, K., Tan, X., Xin, D., Yang, D., ... & Zhao, S. (2024). Naturalspeech 3: Zero-shot speech synthesis with factorized codec and diffusion models. arXiv preprint arXiv:2403.03100.
 5. Le, M., Vyas, A., Shi, B., Karrer, B., Sari, L., Moritz, R., ... & Hsu, W. N. (2024). Voicebox: Text-guided multilingual universal speech generation at scale. Advances in neural information processing systems, 36.
 6. Kim, J., Lee, K., Chung, S., & Cho, J. (2024). CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech. arXiv preprint arXiv:2404.02781.
-7. Lee, K., Kim, D. W., Kim, J., & Cho, J. (2024). DiTTo-TTS: Efficient and Scalable Zero-Shot Text-to-Speech with Diffusion Transformer. arXiv preprint arXiv:2406.11427.
+7. Lee, K., Kim, D. W., Kim, J., Chung, S., & Cho, J. DiTTo-TTS: Diffusion Transformers for Scalable Text-to-Speech without Domain-Specific Factors. In The Thirteenth International Conference on Learning Representations.
 8. Casanova, E., Weber, J., Shulby, C. D., Junior, A. C., Gölge, E., & Ponti, M. A. (2022, June). Yourtts: Towards zero-shot multi-speaker tts and zero-shot voice conversion for everyone. In International Conference on Machine Learning (pp. 2709-2720). PMLR.
 9. Kim, J., Kong, J., & Son, J. (2021, July). Conditional variational autoencoder with adversarial learning for end-to-end text-to-speech. In International Conference on Machine Learning (pp. 5530-5540). PMLR.
 
